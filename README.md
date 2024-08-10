@@ -16,6 +16,7 @@ https://github.com/ciri/comfyui-model-downloader <br />
 https://github.com/kijai/ComfyUI-LivePortraitKJ <br />
 https://github.com/kijai/ComfyUI-KJNodes <br />
 https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite <br />
+https://github.com/cubiq/ComfyUI_essentials <br />
 
 ### 📄 Paper
 https://arxiv.org/abs/2407.03168

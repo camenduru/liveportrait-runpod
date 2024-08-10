@@ -22,7 +22,8 @@ RUN git clone https://github.com/comfyanonymous/ComfyUI /content/ComfyUI && \
     git clone https://github.com/ciri/comfyui-model-downloader /content/ComfyUI/custom_nodes/comfyui-model-downloader && \
     git clone https://github.com/kijai/ComfyUI-LivePortraitKJ /content/ComfyUI/custom_nodes/ComfyUI-LivePortraitKJ && \
     git clone https://github.com/kijai/ComfyUI-KJNodes /content/ComfyUI/custom_nodes/ComfyUI-KJNodes && \
-    git clone https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite /content/ComfyUI/custom_nodes/ComfyUI-VideoHelperSuite
+    git clone https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite /content/ComfyUI/custom_nodes/ComfyUI-VideoHelperSuite && \
+    git clone https://github.com/cubiq/ComfyUI_essentials /content/ComfyUI/custom_nodes/ComfyUI_essentials
 
 RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M  https://huggingface.co/camenduru/LivePortrait_InsightFace/resolve/main/insightface/buffalo_l/1k3d68.onnx -d /content/ComfyUI/models/insightface/models/buffalo_l -o 1k3d68.onnx && \
     aria2c --console-log-level=error -c -x 16 -s 16 -k 1M  https://huggingface.co/camenduru/LivePortrait_InsightFace/resolve/main/insightface/buffalo_l/2d106det.onnx -d /content/ComfyUI/models/insightface/models/buffalo_l -o 2d106det.onnx && \
