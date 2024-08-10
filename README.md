@@ -6,7 +6,7 @@
 
 | Template | Workflow
 | --- | --- |
-[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=qcx0ys9qks&ref=iqi9iy8y) | [LivePortrait-ComfyUI.json](https://github.com/camenduru/liveportrait-runpod/blob/main/LivePortrait-ComfyUI.json)
+[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=qcx0ys9qks&ref=iqi9iy8y) | [liveportrait_image_example_01.json](https://github.com/kijai/ComfyUI-LivePortraitKJ/blob/main/examples/liveportrait_image_example_01.json) <br /> [liveportrait_realtime_example_01.json](https://github.com/kijai/ComfyUI-LivePortraitKJ/blob/main/examples/liveportrait_realtime_example_01.json) <br /> [liveportrait_video_example_02.json](https://github.com/kijai/ComfyUI-LivePortraitKJ/blob/main/examples/liveportrait_video_example_02.json)
 
 ### 🧬 Code
 https://github.com/KwaiVGI/LivePortrait <br />
