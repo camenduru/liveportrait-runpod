@@ -6,7 +6,7 @@
 
 | Template | Workflow
 | --- | --- |
-[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=qcx0ys9qks&ref=iqi9iy8y) | [Flux.1-Dev.json](https://github.com/camenduru/liveportrait-runpod/blob/main/LivePortrait-ComfyUI.json)
+[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=qcx0ys9qks&ref=iqi9iy8y) | [LivePortrait.json](https://github.com/camenduru/liveportrait-runpod/blob/main/LivePortrait-ComfyUI.json)
 
 ### 🧬 Code
 https://github.com/KwaiVGI/LivePortrait
