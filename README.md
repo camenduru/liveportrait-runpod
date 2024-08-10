@@ -24,7 +24,7 @@ https://arxiv.org/abs/2407.03168
 https://liveportrait.github.io/
 
 ### 🖼 Output
-
+![Screenshot 2024-08-11 001514](https://github.com/user-attachments/assets/08a66b79-f9df-4c72-b161-3bbe07e8474d)
 
 ### 🏢 Sponsor
 https://runpod.io
